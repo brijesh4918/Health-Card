@@ -1,9 +1,5 @@
 # Health Card
 
-
-
-# Screenshots
-
 # Screenshots
 <img width="300" src="SS/ss1.jpg"> &nbsp; &nbsp; &nbsp; &nbsp; <img width="300" src="SS/ss2.jpg"> 
 
